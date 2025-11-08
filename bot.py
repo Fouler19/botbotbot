@@ -1,4 +1,3 @@
-# bot.py
 import time
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
